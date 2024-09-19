@@ -15,8 +15,8 @@ Ubuntu supports hardware-backed full disk encryption, providing an additional la
 - Debian: A non-commercial distribution and one of the earliest, maintained by a volunteer developer community with a strong commitment to free software principles and democratic project management. The progressive integration and stabilisation of packages and features, together with the project's well-established quality control mechanisms, has earned Debian its reputation of being one of the best-tested and most bug-free distributions available today.
 - RedHat: The Red Hat company (currently owned by IBM) was founded in 1993 and quickly became well known as a commercial vendor for Linux desktop and server systems. The company developed Red Hat Linux and, later, Red Hat Linux Advanced Server. The latter was rebranded Red Hat Enterprise Linux (RHEL) in 2003. While best-known as being a commercially backed and supported operating system used in business servers and enterprise environments, Red Hat also provides free-of-charge licenses for developers, individual users, and testing environments.
 
-##Section 3: Basic Commands
-Some hands-on commands to known
+## Section 3: Basic Commands
+### Some hands-on commands to known
 - whoami: my login
 - hostname: name of this computer
 - echo "Hello, world!" : print characters to screen
@@ -37,7 +37,7 @@ Some hands-on commands to known
 - tac [file] [file2…] : display file in reverse order
 - touch [file] : update modification time
 
-##Section 4: Conclusion
+## Section 4: Conclusion
 While Linux has been around for a very long time, it has been ignored for mainstream desktop use for most of its existence. Linux will run on a wider range of hardware than even Windows. It has also empowered developers and entrepreneurs aspiring to be in the industry. Linux developers have proven time and again that they are not here to follow a certain path of growth to make their mark in the changing landscape of the business.
 
 
