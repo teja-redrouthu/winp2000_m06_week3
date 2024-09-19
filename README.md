@@ -5,7 +5,7 @@ Linux is an open source operating system (OS). An operating system is the softwa
 
 ## Section 1: History of Linux
 Linux is an O/S core originally written by Linus Torvalds. Now almost 10,000 developers including major technology companies like Intel and IBM are using.
-A set of programs written by Richard Stallman and others. They are the GNU utilities.
+A set of programs written by Richard Stallman and others.
 The first version Linux 0.0.1 released in Sepetember 1991. The designation "Linux" was initially used by Torvalds only for the Linux kernel. The kernel was, however, frequently used together with other software, especially that of the GNU project. This quickly became the most popular adoption of GNU software. Linux is free and open-source, powerful for research datacenters, personal for desktops and phones.
 
 ## Section 2: Linux Distributions
