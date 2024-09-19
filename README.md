@@ -10,13 +10,12 @@ The first version Linux 0.0.1 released in Sepetember 1991. The designation "Linu
 
 ## Section 2: Linux Distributions
 Linux distributions, often referred to as Linux distros, are operating systems made from a software collection that is based upon the Linux kernel and, often, a package management system. They include the Linux kernel, supporting utilities and libraries, and usually a large amount of application software to fulfill the distribution’s intended use. Some of them are:
-- Ubuntu: Ubuntu is a comprehensive operating system that combines advanced features, high performance, and a user-friendly design suitable for both personal use and professional development. One of the standout features of Ubuntu is its support for the ZFS file system, which is a modern filesystem known for its high availability, and improved guidance for dual-boot setups – this makes the system highly versatile, and suitable for various user requirements.
-Ubuntu supports hardware-backed full disk encryption, providing an additional layer of security that protects user data.
+- Ubuntu: Ubuntu is a feature-rich operating system that is appropriate for both home and business usage. It combines cutting-edge functionality, excellent performance, and an intuitive interface. Ubuntu's support for the ZFS file system, a contemporary filesystem renowned for its high availability and enhanced guidance for dual-boot installations, is one of its most notable characteristics. This makes the system incredibly flexible and appropriate for a wide range of user needs. Hardware-backed full disk encryption is supported by Ubuntu, adding another degree of protection for user data.
 - Debian: A non-commercial distribution and one of the earliest, maintained by a volunteer developer community with a strong commitment to free software principles and democratic project management. The progressive integration and stabilisation of packages and features, together with the project's well-established quality control mechanisms, has earned Debian its reputation of being one of the best-tested and most bug-free distributions available today.
 - RedHat: The Red Hat company (currently owned by IBM) was founded in 1993 and quickly became well known as a commercial vendor for Linux desktop and server systems. The company developed Red Hat Linux and, later, Red Hat Linux Advanced Server. The latter was rebranded Red Hat Enterprise Linux (RHEL) in 2003. While best-known as being a commercially backed and supported operating system used in business servers and enterprise environments, Red Hat also provides free-of-charge licenses for developers, individual users, and testing environments.
 
 ## Section 3: Basic Commands
-### Some hands-on commands to known
+Some hands-on commands to known
 - whoami: my login
 - hostname: name of this computer
 - echo "Hello, world!" : print characters to screen
@@ -38,8 +37,7 @@ Ubuntu supports hardware-backed full disk encryption, providing an additional la
 - touch [file] : update modification time
 
 ## Section 4: Conclusion
-While Linux has been around for a very long time, it has been ignored for mainstream desktop use for most of its existence. Linux will run on a wider range of hardware than even Windows. It has also empowered developers and entrepreneurs aspiring to be in the industry. Linux developers have proven time and again that they are not here to follow a certain path of growth to make their mark in the changing landscape of the business.
+Despite being around for a very long time, Linux has spent the majority of that time being overlooked for desktop use in the mainstream. Even Windows cannot run on as much hardware as Linux can. Additionally, it has given innovators and aspiring business owners more leverage in the sector. Linux developers have repeatedly shown that they are not here to follow a specific growth route in order to leave their imprint on the ever-changing commercial world.
 
-
-
-# winp2000_m06_week3
+### References
+https://www.redhat.com/en/topics/linux/
